@@ -1,0 +1,21 @@
+{
+  "name": "ios-pro",
+  "owner": { "name": "Alex Lombry" },
+  "metadata": {
+    "description": "Senior Apple platform review skill for iOS/SwiftUI development",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "ios-pro",
+      "source": ".",
+      "description": "Senior Apple platform review — architecture, security, privacy, SwiftUI, Swift concurrency, accessibility, performance. iOS 18+ / Swift 6.2+.",
+      "version": "1.0.0",
+      "author": { "name": "Alex Lombry", "email": "alex.lombry@gmail.com" },
+      "homepage": "https://github.com/AlexLombry/ios-pro",
+      "repository": "https://github.com/AlexLombry/ios-pro",
+      "license": "MIT",
+      "keywords": ["ios", "swiftui", "swift", "apple", "code-review"]
+    }
+  ]
+}
